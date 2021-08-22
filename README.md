@@ -1,1 +1,1 @@
-# test-webpack
+# Тестовая сборка на Webpack 5.5
